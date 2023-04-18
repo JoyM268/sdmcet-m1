@@ -12,11 +12,11 @@
 		<li><a href="#contact">Contact</a></li>
 	</ul>
 	<h2 id="installation">Installation</h2>
-	<p>To run the programs in this repository on locally on your desktop, you must have Python installed on your desktop along with the following Python libraries:</p>
+	<p>To run the programs in this repository on locally on your desktop, you must have <a href="https://www.python.org/">Python</a> installed on your desktop along with the following Python libraries:</p>
 	<ul>
-		<li>numpy</li>
-		<li>sympy</li>
-		<li>matplotlib</li>
+		<li><a href="https://numpy.org/">numpy</a></li>
+		<li><a href="https://www.sympy.org/en/index.html">sympy</a></li>
+		<li><a href="https://matplotlib.org/">matplotlib</a></li>
 	</ul>
 	<p>You can install these libraries by running the following command:</p>
 	<pre><code>pip install numpy</code></pre>
@@ -28,7 +28,7 @@
 	<p>Alternatively, you can download all the code in this repository as a zip file by clicking the link: 
     <a href="https://github.com/JoyM268/Mathematics-Lab-Programs-1/archive/refs/heads/main.zip">Download Zip File</a>
   </p>
-	<p>After cloning the repository, you can navigate to the directory containing the Jupyter notebook file you wish to open and run the file using Jupyter notebook.</p>
+	<p>After cloning the repository, you can navigate to the directory containing the <a href="https://jupyter.org/">Jupyter Notebook</a> file you wish to open and run the file using Jupyter notebook.</p>
 	<h2 id="contributing">Contributing</h2>
 	<p>Contributions to this repository are welcome. If you find a bug or wish to add a new program, please create a new branch, make your changes, and create a pull request. Your contributions will be reviewed and merged if they meet the requirements of this repository.</p>
 	<h2 id="contact">Contact</h2>
