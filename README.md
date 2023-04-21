@@ -3,7 +3,7 @@
 <body>
 	<h1>Mathematics Lab Programs 1</h1>
 	<p>Welcome to the "Mathematics Lab Programs 1" Github repository! This repository is a comprehensive collection of all the programs and codes taught in the M1 Lab of SDMCET, 2022 - 23. The programs cover mathematical applications and problem solving using Python libraries such as numpy, sympy, and matplot lib.</p>
-	<p>This repository is contributed by the owner and does not have any license. The programs are intended for educational purposes.</p>
+	<p>This repository does not have any license. The programs are intended for educational purposes.</p>
 	<h2>Table of Contents</h2>
 	<ul>
 		<li><a href="#installation">Installation</a></li>
